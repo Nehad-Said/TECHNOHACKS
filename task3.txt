@@ -1,0 +1,75 @@
+Create a password policy for a company that
+enforces strong and unique passwords.
+
+
+
+
+
+
+Company Password Policy
+
+1. Password Complexity:
+
+a. Password Length: Passwords must be at least 12 characters long.
+
+b. Password Composition: Passwords must contain a combination of the following:
+- Uppercase letters (A-Z)
+- Lowercase letters (a-z)
+- Numerals (0-9)
+- Special characters (e.g., !, @, #, $, %, ^, *)
+
+2. Password History:
+
+a. Users cannot reuse their last 12 passwords.
+
+3. Password Expiration:
+
+a. Passwords must be changed every 90 days.
+
+4. Account Lockout:
+
+a. After five consecutive failed login attempts, an account is temporarily locked for 30 minutes.
+
+5. Two-Factor Authentication (2FA):
+
+a. Enable and require two-factor authentication for all accounts whenever possible, especially for accounts with access to sensitive information or systems.
+
+6. Unique Passwords:
+
+a. Users must not use common passwords, such as "password," "123456," or "admin." Common passwords and easily guessable information, including the user's name or birthdate, are not allowed.
+
+7. Password Storage:
+
+a. Passwords must be securely stored and hashed using strong cryptographic algorithms. Plaintext password storage is strictly prohibited.
+
+8. Password Recovery:
+
+a. Implement secure password recovery procedures that involve multi-factor authentication to prevent unauthorized password resets.
+
+9. User Education:
+
+a. Provide regular training and awareness programs to educate users about password security best practices.
+
+10. Monitoring and Auditing:
+
+a. Regularly monitor and audit password usage, account activity, and login attempts to identify and mitigate any suspicious or unauthorized activities.
+
+11. Password Managers:
+
+a. Encourage and facilitate the use of reputable password management tools to securely store and manage passwords.
+
+12. Password Reset Procedures:
+
+a. Implement a secure and reliable password reset procedure that involves multi-factor authentication to verify the user's identity.
+
+13. Reporting Security Incidents:
+
+a. All employees must promptly report any suspected security incidents, such as unauthorized access or suspicious login attempts.
+
+14. Enforcement:
+
+a. Failure to adhere to this password policy may result in account suspension, termination, or other disciplinary actions.
+
+15. Review and Updates:
+
+a. Regularly review and update the password policy to adapt to evolving security threats and technology advancements.
